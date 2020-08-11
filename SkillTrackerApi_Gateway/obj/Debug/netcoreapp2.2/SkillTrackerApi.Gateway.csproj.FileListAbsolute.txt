@@ -1,0 +1,38 @@
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_With _Microservice\SkillTrackerApi_Gateway\bin\Debug\netcoreapp2.2\appsettings.Development.json
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_With _Microservice\SkillTrackerApi_Gateway\bin\Debug\netcoreapp2.2\appsettings.json
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_With _Microservice\SkillTrackerApi_Gateway\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_With _Microservice\SkillTrackerApi_Gateway\bin\Debug\netcoreapp2.2\SkillTrackerApi.Gateway.deps.json
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_With _Microservice\SkillTrackerApi_Gateway\bin\Debug\netcoreapp2.2\SkillTrackerApi.Gateway.runtimeconfig.json
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_With _Microservice\SkillTrackerApi_Gateway\bin\Debug\netcoreapp2.2\SkillTrackerApi.Gateway.runtimeconfig.dev.json
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_With _Microservice\SkillTrackerApi_Gateway\bin\Debug\netcoreapp2.2\SkillTrackerApi.Gateway.dll
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_With _Microservice\SkillTrackerApi_Gateway\obj\Debug\netcoreapp2.2\SkillTrackerApi.Gateway.csprojAssemblyReference.cache
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_With _Microservice\SkillTrackerApi_Gateway\obj\Debug\netcoreapp2.2\SkillTrackerApi.Gateway.AssemblyInfoInputs.cache
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_With _Microservice\SkillTrackerApi_Gateway\obj\Debug\netcoreapp2.2\SkillTrackerApi.Gateway.AssemblyInfo.cs
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_With _Microservice\SkillTrackerApi_Gateway\obj\Debug\netcoreapp2.2\SkillTrackerApi.Gateway.RazorAssemblyInfo.cache
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_With _Microservice\SkillTrackerApi_Gateway\obj\Debug\netcoreapp2.2\SkillTrackerApi.Gateway.RazorAssemblyInfo.cs
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_With _Microservice\SkillTrackerApi_Gateway\obj\Debug\netcoreapp2.2\SkillTrackerApi.Gateway.RazorTargetAssemblyInfo.cache
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_With _Microservice\SkillTrackerApi_Gateway\obj\Debug\netcoreapp2.2\SkillTrackerApi.Gateway.genruntimeconfig.cache
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_With _Microservice\SkillTrackerApi_Gateway\bin\Debug\netcoreapp2.2\ocelot.json
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_With _Microservice\SkillTrackerApi_Gateway\bin\Debug\netcoreapp2.2\SkillTrackerApi.Gateway.pdb
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_With _Microservice\SkillTrackerApi_Gateway\obj\Debug\netcoreapp2.2\SkillTrackerApi.Gateway.csproj.CoreCompileInputs.cache
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_With _Microservice\SkillTrackerApi_Gateway\obj\Debug\netcoreapp2.2\SkillTrackerApi.Gateway.dll
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_With _Microservice\SkillTrackerApi_Gateway\obj\Debug\netcoreapp2.2\SkillTrackerApi.Gateway.pdb
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_Microservice_ApiGateway\SkillTrackerApi_Gateway\bin\Debug\netcoreapp2.2\appsettings.Development.json
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_Microservice_ApiGateway\SkillTrackerApi_Gateway\bin\Debug\netcoreapp2.2\appsettings.json
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_Microservice_ApiGateway\SkillTrackerApi_Gateway\bin\Debug\netcoreapp2.2\ocelot.json
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_Microservice_ApiGateway\SkillTrackerApi_Gateway\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_Microservice_ApiGateway\SkillTrackerApi_Gateway\bin\Debug\netcoreapp2.2\SkillTrackerApi.Gateway.deps.json
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_Microservice_ApiGateway\SkillTrackerApi_Gateway\bin\Debug\netcoreapp2.2\SkillTrackerApi.Gateway.runtimeconfig.json
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_Microservice_ApiGateway\SkillTrackerApi_Gateway\bin\Debug\netcoreapp2.2\SkillTrackerApi.Gateway.runtimeconfig.dev.json
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_Microservice_ApiGateway\SkillTrackerApi_Gateway\bin\Debug\netcoreapp2.2\SkillTrackerApi.Gateway.dll
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_Microservice_ApiGateway\SkillTrackerApi_Gateway\bin\Debug\netcoreapp2.2\SkillTrackerApi.Gateway.pdb
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_Microservice_ApiGateway\SkillTrackerApi_Gateway\obj\Debug\netcoreapp2.2\SkillTrackerApi.Gateway.csprojAssemblyReference.cache
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_Microservice_ApiGateway\SkillTrackerApi_Gateway\obj\Debug\netcoreapp2.2\SkillTrackerApi.Gateway.AssemblyInfoInputs.cache
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_Microservice_ApiGateway\SkillTrackerApi_Gateway\obj\Debug\netcoreapp2.2\SkillTrackerApi.Gateway.AssemblyInfo.cs
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_Microservice_ApiGateway\SkillTrackerApi_Gateway\obj\Debug\netcoreapp2.2\SkillTrackerApi.Gateway.csproj.CoreCompileInputs.cache
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_Microservice_ApiGateway\SkillTrackerApi_Gateway\obj\Debug\netcoreapp2.2\SkillTrackerApi.Gateway.RazorAssemblyInfo.cache
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_Microservice_ApiGateway\SkillTrackerApi_Gateway\obj\Debug\netcoreapp2.2\SkillTrackerApi.Gateway.RazorAssemblyInfo.cs
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_Microservice_ApiGateway\SkillTrackerApi_Gateway\obj\Debug\netcoreapp2.2\SkillTrackerApi.Gateway.RazorTargetAssemblyInfo.cache
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_Microservice_ApiGateway\SkillTrackerApi_Gateway\obj\Debug\netcoreapp2.2\SkillTrackerApi.Gateway.dll
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_Microservice_ApiGateway\SkillTrackerApi_Gateway\obj\Debug\netcoreapp2.2\SkillTrackerApi.Gateway.pdb
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_Microservice_ApiGateway\SkillTrackerApi_Gateway\obj\Debug\netcoreapp2.2\SkillTrackerApi.Gateway.genruntimeconfig.cache

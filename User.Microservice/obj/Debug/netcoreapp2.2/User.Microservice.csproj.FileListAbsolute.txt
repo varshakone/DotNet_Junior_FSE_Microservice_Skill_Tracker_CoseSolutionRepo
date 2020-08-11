@@ -1,0 +1,14 @@
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_With _Microservice\User.Microservice\bin\Debug\netcoreapp2.2\appsettings.Development.json
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_With _Microservice\User.Microservice\bin\Debug\netcoreapp2.2\appsettings.json
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_With _Microservice\User.Microservice\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_With _Microservice\User.Microservice\bin\Debug\netcoreapp2.2\User.Microservice.deps.json
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_With _Microservice\User.Microservice\bin\Debug\netcoreapp2.2\User.Microservice.runtimeconfig.json
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_With _Microservice\User.Microservice\bin\Debug\netcoreapp2.2\User.Microservice.runtimeconfig.dev.json
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_With _Microservice\User.Microservice\bin\Debug\netcoreapp2.2\User.Microservice.dll
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_With _Microservice\User.Microservice\obj\Debug\netcoreapp2.2\User.Microservice.csprojAssemblyReference.cache
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_With _Microservice\User.Microservice\obj\Debug\netcoreapp2.2\User.Microservice.AssemblyInfoInputs.cache
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_With _Microservice\User.Microservice\obj\Debug\netcoreapp2.2\User.Microservice.AssemblyInfo.cs
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_With _Microservice\User.Microservice\obj\Debug\netcoreapp2.2\User.Microservice.RazorAssemblyInfo.cache
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_With _Microservice\User.Microservice\obj\Debug\netcoreapp2.2\User.Microservice.RazorAssemblyInfo.cs
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_With _Microservice\User.Microservice\obj\Debug\netcoreapp2.2\User.Microservice.RazorTargetAssemblyInfo.cache
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_With _Microservice\User.Microservice\obj\Debug\netcoreapp2.2\User.Microservice.genruntimeconfig.cache

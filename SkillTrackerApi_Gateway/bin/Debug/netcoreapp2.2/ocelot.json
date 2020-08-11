@@ -1,0 +1,161 @@
+{
+  "ReRoutes": [
+    {
+      "DownstreamPathTemplate": "/api/user/test",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 44327
+          
+        }
+      ],
+
+      "UpstreamPathTemplate": "/test",
+      "UpstreamHttpMethod": [ "Get" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/user/new",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 44327
+        }
+      ],
+
+      "UpstreamPathTemplate": "/newuser",
+      "UpstreamHttpMethod": [ "POST" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/user/edit",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 44327
+        }
+      ],
+      "UpstreamPathTemplate": "/edituser",
+      "UpstreamHttpMethod": [ "Put" ]
+    },
+
+    {
+      "DownstreamPathTemplate": "/api/user/delete",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 44327
+        }
+      ],
+      "UpstreamPathTemplate": "/deleteuser",
+      "UpstreamHttpMethod": [ "Delete" ]
+    },
+
+    {
+      "DownstreamPathTemplate": "/api/user/alluser",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 44327
+        }
+      ],
+      "UpstreamPathTemplate": "/allusers",
+      "UpstreamHttpMethod": [ "Get" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/user/byfirstname/",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 44327
+        }
+      ],
+      "UpstreamPathTemplate": "/searchbyfirstname/",
+      "UpstreamHttpMethod": [ "Get" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/user/byemail/",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 44327
+        }
+      ],
+      "UpstreamPathTemplate": "/searchbyemail/",
+      "UpstreamHttpMethod": [ "Get" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/user/bymobile/",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 44327
+        }
+      ],
+      "UpstreamPathTemplate": "/searchbymobile/",
+      "UpstreamHttpMethod": [ "Get" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/user/byskillrange/",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 44327
+        }
+      ],
+      "UpstreamPathTemplate": "/searchbyskillrange/",
+      "UpstreamHttpMethod": [ "Get" ]
+    },
+
+    {
+      "DownstreamPathTemplate": "/api/skill/new",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 44393
+          
+        }
+      ],
+      "UpstreamPathTemplate": "/newskill",
+      "UpstreamHttpMethod": [ "Post" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/skill/edit",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 44393
+        }
+      ],
+      "UpstreamPathTemplate": "/editskill",
+      "UpstreamHttpMethod": [ "Put" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/skill/delete",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 44393
+        }
+      ],
+      "UpstreamPathTemplate": "/deleteskill",
+      "UpstreamHttpMethod": [ "Delete" ]
+    }
+  ],
+  "GlobalConfiguration": {
+   
+    
+    "BaseUrl": "https://localhost:44361/"
+
+  }
+}

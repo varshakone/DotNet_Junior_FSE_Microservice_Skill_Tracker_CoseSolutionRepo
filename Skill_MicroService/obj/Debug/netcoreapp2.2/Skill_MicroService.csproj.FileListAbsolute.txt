@@ -1,0 +1,36 @@
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_With _Microservice\Skill_MicroService\bin\Debug\netcoreapp2.2\appsettings.Development.json
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_With _Microservice\Skill_MicroService\bin\Debug\netcoreapp2.2\appsettings.json
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_With _Microservice\Skill_MicroService\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_With _Microservice\Skill_MicroService\bin\Debug\netcoreapp2.2\Skill_MicroService.deps.json
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_With _Microservice\Skill_MicroService\bin\Debug\netcoreapp2.2\Skill_MicroService.runtimeconfig.json
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_With _Microservice\Skill_MicroService\bin\Debug\netcoreapp2.2\Skill_MicroService.runtimeconfig.dev.json
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_With _Microservice\Skill_MicroService\bin\Debug\netcoreapp2.2\Skill_MicroService.dll
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_With _Microservice\Skill_MicroService\obj\Debug\netcoreapp2.2\Skill_MicroService.csprojAssemblyReference.cache
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_With _Microservice\Skill_MicroService\obj\Debug\netcoreapp2.2\Skill_MicroService.AssemblyInfoInputs.cache
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_With _Microservice\Skill_MicroService\obj\Debug\netcoreapp2.2\Skill_MicroService.AssemblyInfo.cs
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_With _Microservice\Skill_MicroService\obj\Debug\netcoreapp2.2\Skill_MicroService.RazorAssemblyInfo.cache
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_With _Microservice\Skill_MicroService\obj\Debug\netcoreapp2.2\Skill_MicroService.RazorAssemblyInfo.cs
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_With _Microservice\Skill_MicroService\obj\Debug\netcoreapp2.2\Skill_MicroService.RazorTargetAssemblyInfo.cache
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_With _Microservice\Skill_MicroService\obj\Debug\netcoreapp2.2\Skill_MicroService.genruntimeconfig.cache
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_With _Microservice\Skill_MicroService\bin\Debug\netcoreapp2.2\Skill_MicroService.pdb
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_With _Microservice\Skill_MicroService\obj\Debug\netcoreapp2.2\Skill_MicroService.csproj.CoreCompileInputs.cache
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_With _Microservice\Skill_MicroService\obj\Debug\netcoreapp2.2\Skill_MicroService.dll
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_With _Microservice\Skill_MicroService\obj\Debug\netcoreapp2.2\Skill_MicroService.pdb
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_Microservice_ApiGateway\Skill_MicroService\bin\Debug\netcoreapp2.2\appsettings.Development.json
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_Microservice_ApiGateway\Skill_MicroService\bin\Debug\netcoreapp2.2\appsettings.json
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_Microservice_ApiGateway\Skill_MicroService\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_Microservice_ApiGateway\Skill_MicroService\bin\Debug\netcoreapp2.2\Skill_MicroService.deps.json
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_Microservice_ApiGateway\Skill_MicroService\bin\Debug\netcoreapp2.2\Skill_MicroService.runtimeconfig.json
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_Microservice_ApiGateway\Skill_MicroService\bin\Debug\netcoreapp2.2\Skill_MicroService.runtimeconfig.dev.json
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_Microservice_ApiGateway\Skill_MicroService\bin\Debug\netcoreapp2.2\Skill_MicroService.dll
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_Microservice_ApiGateway\Skill_MicroService\bin\Debug\netcoreapp2.2\Skill_MicroService.pdb
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_Microservice_ApiGateway\Skill_MicroService\obj\Debug\netcoreapp2.2\Skill_MicroService.csprojAssemblyReference.cache
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_Microservice_ApiGateway\Skill_MicroService\obj\Debug\netcoreapp2.2\Skill_MicroService.AssemblyInfoInputs.cache
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_Microservice_ApiGateway\Skill_MicroService\obj\Debug\netcoreapp2.2\Skill_MicroService.AssemblyInfo.cs
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_Microservice_ApiGateway\Skill_MicroService\obj\Debug\netcoreapp2.2\Skill_MicroService.csproj.CoreCompileInputs.cache
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_Microservice_ApiGateway\Skill_MicroService\obj\Debug\netcoreapp2.2\Skill_MicroService.RazorAssemblyInfo.cache
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_Microservice_ApiGateway\Skill_MicroService\obj\Debug\netcoreapp2.2\Skill_MicroService.RazorAssemblyInfo.cs
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_Microservice_ApiGateway\Skill_MicroService\obj\Debug\netcoreapp2.2\Skill_MicroService.RazorTargetAssemblyInfo.cache
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_Microservice_ApiGateway\Skill_MicroService\obj\Debug\netcoreapp2.2\Skill_MicroService.dll
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_Microservice_ApiGateway\Skill_MicroService\obj\Debug\netcoreapp2.2\Skill_MicroService.pdb
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE\SkillTracker_Microservice_ApiGateway\Skill_MicroService\obj\Debug\netcoreapp2.2\Skill_MicroService.genruntimeconfig.cache
